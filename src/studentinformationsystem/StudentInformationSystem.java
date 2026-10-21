@@ -16,11 +16,13 @@ public class StudentInformationSystem {
     public static void main(String[] args) {
        int mark1 = 76;
        int mark2 = 85;
+       int total = (mark1 +mark2)/2;
         
        System.out.println("Name: Syakir Azhad");
        System.out.println("ID : S87442");
        System.out.println("Mark K1:" +mark1);
        System.out.println("Mark K2:" +mark2);
+       System.out.println("Total mark:" +total);
 
         
      
